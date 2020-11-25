@@ -1,18 +1,32 @@
 body{
     font-family: 'Roboto', sans-serif;
+    display: grid;
+    place-items: center;
+    /*background-color: #172b04;*/
+    background-image: url('../blackjack_assets/images/pexels-javon-swaby-3279685.jpg');
+    background-size: cover;
+    height: 100vh;
 }
 
 .container{
-    border: 1px solid black;
-    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 30px;
+    box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.8);
     text-align: center;
     background-position: center;
     background-size: cover;
+    padding-left: 0;
+    padding-right: 0;
     background-image: url("../blackjack_assets/images/pikwizard-483a9b73f52b1d0d1b51a709d5b03f0c.jpg");
 }
 
-.heading{
-    color: gray;
+
+.heading__container{
+    color: white;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 30px;
 }
 
 .flex-blackjack-row-1, .flex-blackjack-row-2, .flex-blackjack-row-3{
