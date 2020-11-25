@@ -103,7 +103,7 @@ function blackjackDeal() {
         document.querySelector('#dealer-blackjack-result').style.color = 'white';
 
         document.querySelector("#blackjack-result").textContent = "Let's play"
-        document.querySelector("#blackjack-result").style.color = "black"
+        document.querySelector("#blackjack-result").style.color = "white"
 
         blackjackGame.turnsOver = false;
     }

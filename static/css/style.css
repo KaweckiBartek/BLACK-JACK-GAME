@@ -24,6 +24,7 @@ body{
 
 
 .heading__container{
+    padding: 5px;
     color: white;
     background-color: rgba(0,0,0,0.3);
     border-radius: 30px;
