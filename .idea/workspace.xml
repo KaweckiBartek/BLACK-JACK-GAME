@@ -21,30 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cdf0a72b-4675-49ff-b941-ffb7811b084e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/JC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/JD.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/JH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/JS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/KC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/KD.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/KH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/KS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/QC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/QD.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/QH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/QS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/aces.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/back_cards-07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/blue_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/gray_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/green_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/honor_clubs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/honor_diamond.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/honor_heart-14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/honors_spade-14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/purple_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/red_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blackjack_assets/images/52 Cards PNG/yellow_back.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +63,7 @@
       <workItem from="1606135340758" duration="13816000" />
       <workItem from="1606231369439" duration="110000" />
       <workItem from="1606231500057" duration="8000" />
-      <workItem from="1606231542782" duration="8140000" />
+      <workItem from="1606231542782" duration="10652000" />
     </task>
     <servers />
   </component>
