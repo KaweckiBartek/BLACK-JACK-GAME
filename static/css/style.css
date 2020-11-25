@@ -17,7 +17,6 @@ body{
 
 .flex-blackjack-row-1, .flex-blackjack-row-2, .flex-blackjack-row-3{
     display: flex;
-    border: 1px solid black;
     padding: 10px;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -43,4 +42,5 @@ table, th, td{
     color: white;
     padding: 5px;
     border: 1px solid black;
+
 }
