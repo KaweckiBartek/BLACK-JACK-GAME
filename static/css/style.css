@@ -40,6 +40,16 @@ body{
     color: white;
 }
 
+@media (max-width: 770px) {
+    .flex-blackjack-row-1{
+        flex-direction: column;
+    }
+    .box{
+        min-height: 200px;
+    }
+
+}
+
 .flex-blackjack-row-1 div{
     padding: 10px;
     height: 350px;
